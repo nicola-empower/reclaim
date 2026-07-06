@@ -705,6 +705,10 @@ Reclaim was never designed as a single application.
 
 Each capability emerged as the solution to a real operational problem, gradually transforming a collection of automations into a unified executive operating system.
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=7A173B&height=2&section=header" width="100%" />
+</p>
+
 ```mermaid
 timeline
 
@@ -730,6 +734,10 @@ title Evolution of Reclaim
      : Reality Sync
      : AI-native control plane
 ```
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=7A173B&height=2&section=header" width="100%" />
+</p>
 
 ### Phase One - Information
 
@@ -991,6 +999,10 @@ It should never become the product.
 
 Every technology used within Reclaim was selected because it supported a specific architectural objective rather than simply following current trends. The platform deliberately favours technologies that reduce operational overhead, improve maintainability and allow the system to evolve without unnecessary complexity.
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=7A173B&height=2&section=header" width="100%" />
+</p>
+
 ## React
 
 Reclaim's interface is built using React because the platform behaves as a living operating system rather than a collection of static pages.
@@ -1068,8 +1080,6 @@ Google Sheets serves as both Reclaim's operational datastore and its Continuity 
 GitHub forms part of the platform's operational awareness rather than acting solely as source control.
 
 Repository activity, deployment status and development momentum contribute to the wider understanding of executive workload, allowing software projects to be evaluated alongside every other operational responsibility.
-
-<img width="698" height="1480" alt="image" src="https://github.com/user-attachments/assets/c725c5a7-5b79-42c3-ab9f-3e167c829e5f" />
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=7A173B&height=2&section=header" width="100%" />
@@ -1149,4 +1159,9 @@ If you're looking for someone who designs systems around people rather than forc
 
 - Nicola Berry
 
+
   <img width="2510" height="1342" alt="image" src="https://github.com/user-attachments/assets/f641383a-ccdb-49bd-a400-ff80b5d44073" />
+
+The Full UI 
+
+<img width="2780" height="8990" alt="image" src="https://github.com/user-attachments/assets/0a5ba256-39ea-4f8c-b23b-8cf863ab5a1e" />
