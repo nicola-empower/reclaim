@@ -1,6 +1,6 @@
 # Reclaim
 
-## An AI-Native Executive Operating System for Founders Who Forget How to Switching Off
+## An AI-Native Executive Operating System for Founders Who Forget How to Switch Off
 
 > *Technology should not only help us work harder. It should help us know when to stop.*
 
