@@ -13,6 +13,8 @@
 ![React PWA](https://img.shields.io/badge/PWA-Enabled-5A0FC8?style=flat-square)
 ![Vercel](https://img.shields.io/badge/Vercel-Deployed-000000?style=flat-square&logo=vercel&logoColor=white)
 ![License](https://img.shields.io/badge/License-Proprietary-C2185B?style=flat-square)
+![Views](https://github-tracker-blush.vercel.app/api/badge/reclaim)
+![Clones](https://github-tracker-blush.vercel.app/api/badge/reclaim?metric=clones)
 
 </div>
 
